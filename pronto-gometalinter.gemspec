@@ -4,7 +4,7 @@ require 'pronto/gometalinter/version'
 
 Gem::Specification.new do |spec|
   spec.name = 'pronto-gometalinter'
-  spec.version = Pronto::gometalinterVersion::VERSION
+  spec.version = Pronto::GometalinterVersion::VERSION
   spec.authors = ['Achmad Gozali']
   spec.email = ['gozali@gmail.com']
 
